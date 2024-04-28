@@ -1,0 +1,232 @@
+Added Component: Designator=C1(CAP_0603)
+Added Component: Designator=C2(CAP_0603)
+Added Component: Designator=C3(CAP_0603)
+Added Component: Designator=C4(CAP_0603)
+Added Component: Designator=C5(CAP_0603_Polarized)
+Added Component: Designator=C6(CAP_0603_Polarized)
+Added Component: Designator=C7(CAP_0603)
+Added Component: Designator=C8(CAP_0603)
+Added Component: Designator=C9(CAP_0603)
+Added Component: Designator=C10(CAP_0603)
+Added Component: Designator=C11(CAP_0603)
+Added Component: Designator=C12(CAP_0603)
+Added Component: Designator=C13(CAP_0603)
+Added Component: Designator=C14(CAP_0603)
+Added Component: Designator=C15(CAP_0603)
+Added Component: Designator=C16(CAP_0603)
+Added Component: Designator=C17(CAP_0402)
+Added Component: Designator=C18(CAP_0603)
+Added Component: Designator=C19(CAP_0603)
+Added Component: Designator=C20(CAP_0603)
+Added Component: Designator=IC1(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "TL071CDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tl071cdr/texas-instruments?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/gpn/tl071"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TL071CDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-TL071CDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TL071CDR?qs=odmYgEirbwyeR17frtRMJg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J1(DCJack_3pins)
+Added Component: Designator=J2(SMA_Connector)
+Added Component: Designator=P1(HDR1X5)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P2(HDR2X3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P3(HDR1X4)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES_0603)
+Added Component: Designator=R3(RES_0603)
+Added Component: Designator=S1(SPST-NO_Switch)
+Added Component: Designator=U1(ATMEGA328-AU)
+Added Component: Designator=U2(ICL7660AIBAZA-T)
+Added Component: Designator=U3(SOT229P700X180-4N)
+Added Component: Designator=U4(AD9833BRMZ-REEL7)
+Added Component: Designator=U5(SOP65P640X120-20N)
+Added Component: Designator=VR1(3296W1103)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/szlcsc/1811271436_Chengdu-Guosheng-Tech-3296W-1-103_C330432.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "10.28mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Chengdu Guosheng Tech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "3296W-1-103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VR2(RK09K1130ACL)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RK09K1130ACL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rk09k1130acl/alps-electric"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK09K/RK09K1130ACL.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "15mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ALPS Electric"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RK09K1130ACL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "688-RK09K1130ACL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Alps-Alpine/RK09K1130ACL?qs=6EGMNY9ZYDQzEvxfrSIq9A%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Y1(4pinOscillator)
+Added Component: Designator=Y2(OSC_ECS-327TXO-30-TR)
+Added Pin To Net: NetName=+12V Pin=C10-2
+Added Pin To Net: NetName=+12V Pin=C11-2
+Added Pin To Net: NetName=+12V Pin=IC1-7
+Added Pin To Net: NetName=+12V Pin=J1-1
+Added Pin To Net: NetName=+12V Pin=U2-8
+Added Pin To Net: NetName=+12V Pin=U3-3
+Added Pin To Net: NetName=+12V Pin=VR1-3
+Added Net: Name=+12V
+Added Pin To Net: NetName=-12V Pin=C6-1
+Added Pin To Net: NetName=-12V Pin=IC1-4
+Added Pin To Net: NetName=-12V Pin=U2-5
+Added Pin To Net: NetName=-12V Pin=VR1-1
+Added Net: Name=-12V
+Added Pin To Net: NetName=5V Pin=C1-2
+Added Pin To Net: NetName=5V Pin=C2-2
+Added Pin To Net: NetName=5V Pin=C3-2
+Added Pin To Net: NetName=5V Pin=C12-2
+Added Pin To Net: NetName=5V Pin=C13-2
+Added Pin To Net: NetName=5V Pin=C14-2
+Added Pin To Net: NetName=5V Pin=C15-2
+Added Pin To Net: NetName=5V Pin=C16-2
+Added Pin To Net: NetName=5V Pin=C17-2
+Added Pin To Net: NetName=5V Pin=C19-2
+Added Pin To Net: NetName=5V Pin=C20-2
+Added Pin To Net: NetName=5V Pin=P1-4
+Added Pin To Net: NetName=5V Pin=P2-2
+Added Pin To Net: NetName=5V Pin=P3-1
+Added Pin To Net: NetName=5V Pin=R1-2
+Added Pin To Net: NetName=5V Pin=U1-4
+Added Pin To Net: NetName=5V Pin=U1-6
+Added Pin To Net: NetName=5V Pin=U1-18
+Added Pin To Net: NetName=5V Pin=U3-2
+Added Pin To Net: NetName=5V Pin=U4-2
+Added Pin To Net: NetName=5V Pin=U4-3
+Added Pin To Net: NetName=5V Pin=U5-20
+Added Pin To Net: NetName=5V Pin=Y2-4
+Added Net: Name=5V
+Added Pin To Net: NetName=AREF Pin=C8-2
+Added Pin To Net: NetName=AREF Pin=U1-20
+Added Net: Name=AREF
+Added Pin To Net: NetName=CAP+ Pin=C5-1
+Added Pin To Net: NetName=CAP+ Pin=U2-2
+Added Net: Name=CAP+
+Added Pin To Net: NetName=CAP- Pin=C5-2
+Added Pin To Net: NetName=CAP- Pin=U2-4
+Added Net: Name=CAP-
+Added Pin To Net: NetName=COMP Pin=C20-1
+Added Pin To Net: NetName=COMP Pin=U4-1
+Added Net: Name=COMP
+Added Pin To Net: NetName=FSYNC Pin=U4-8
+Added Pin To Net: NetName=FSYNC Pin=U5-14
+Added Net: Name=FSYNC
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J2-G1
+Added Pin To Net: NetName=GND Pin=J2-G2
+Added Pin To Net: NetName=GND Pin=J2-G3
+Added Pin To Net: NetName=GND Pin=J2-G4
+Added Pin To Net: NetName=GND Pin=P1-5
+Added Pin To Net: NetName=GND Pin=P2-6
+Added Pin To Net: NetName=GND Pin=P3-2
+Added Pin To Net: NetName=GND Pin=S1-1
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U1-21
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U4-4
+Added Pin To Net: NetName=GND Pin=U4-9
+Added Pin To Net: NetName=GND Pin=U5-10
+Added Pin To Net: NetName=GND Pin=Y1-2
+Added Pin To Net: NetName=GND Pin=Y1-4
+Added Pin To Net: NetName=GND Pin=Y2-2
+Added Net: Name=GND
+Added Pin To Net: NetName=I2C_SCL Pin=P3-4
+Added Pin To Net: NetName=I2C_SCL Pin=U1-27
+Added Net: Name=I2C_SCL
+Added Pin To Net: NetName=I2C_SDA Pin=P3-3
+Added Pin To Net: NetName=I2C_SDA Pin=U1-28
+Added Net: Name=I2C_SDA
+Added Pin To Net: NetName=IN+ Pin=IC1-3
+Added Pin To Net: NetName=IN+ Pin=VR1-2
+Added Net: Name=IN+
+Added Pin To Net: NetName=IN- Pin=IC1-2
+Added Pin To Net: NetName=IN- Pin=R3-1
+Added Pin To Net: NetName=IN- Pin=VR2-2
+Added Net: Name=IN-
+Added Pin To Net: NetName=MCLK Pin=U4-5
+Added Pin To Net: NetName=MCLK Pin=Y2-3
+Added Net: Name=MCLK
+Added Pin To Net: NetName=OSC1 Pin=C4-2
+Added Pin To Net: NetName=OSC1 Pin=U1-7
+Added Pin To Net: NetName=OSC1 Pin=Y1-1
+Added Net: Name=OSC1
+Added Pin To Net: NetName=OSC2 Pin=C7-2
+Added Pin To Net: NetName=OSC2 Pin=U1-8
+Added Pin To Net: NetName=OSC2 Pin=Y1-3
+Added Net: Name=OSC2
+Added Pin To Net: NetName=OutputAD9833 Pin=C18-2
+Added Pin To Net: NetName=OutputAD9833 Pin=R3-2
+Added Pin To Net: NetName=OutputAD9833 Pin=U4-10
+Added Net: Name=OutputAD9833
+Added Pin To Net: NetName=RESET Pin=C9-2
+Added Pin To Net: NetName=RESET Pin=P2-5
+Added Pin To Net: NetName=RESET Pin=R1-1
+Added Pin To Net: NetName=RESET Pin=S1-2
+Added Pin To Net: NetName=RESET Pin=U1-29
+Added Net: Name=RESET
+Added Pin To Net: NetName=ROT_CLK Pin=P1-1
+Added Pin To Net: NetName=ROT_CLK Pin=U1-32
+Added Net: Name=ROT_CLK
+Added Pin To Net: NetName=ROT_DT Pin=P1-2
+Added Pin To Net: NetName=ROT_DT Pin=U1-1
+Added Net: Name=ROT_DT
+Added Pin To Net: NetName=ROT_SW Pin=P1-3
+Added Pin To Net: NetName=ROT_SW Pin=U1-2
+Added Net: Name=ROT_SW
+Added Pin To Net: NetName=SCLK Pin=U4-7
+Added Pin To Net: NetName=SCLK Pin=U5-18
+Added Net: Name=SCLK
+Added Pin To Net: NetName=SDATA Pin=U4-6
+Added Pin To Net: NetName=SDATA Pin=U5-16
+Added Net: Name=SDATA
+Added Pin To Net: NetName=Signal Pin=IC1-6
+Added Pin To Net: NetName=Signal Pin=J2-1
+Added Pin To Net: NetName=Signal Pin=VR2-3
+Added Net: Name=Signal
+Added Pin To Net: NetName=SPI_FSYNC Pin=U1-14
+Added Pin To Net: NetName=SPI_FSYNC Pin=U5-6
+Added Net: Name=SPI_FSYNC
+Added Pin To Net: NetName=SPI_MISO Pin=P2-1
+Added Pin To Net: NetName=SPI_MISO Pin=U1-16
+Added Net: Name=SPI_MISO
+Added Pin To Net: NetName=SPI_SCK Pin=P2-3
+Added Pin To Net: NetName=SPI_SCK Pin=U1-17
+Added Pin To Net: NetName=SPI_SCK Pin=U5-2
+Added Net: Name=SPI_SCK
+Added Pin To Net: NetName=SPI_SDATA Pin=P2-4
+Added Pin To Net: NetName=SPI_SDATA Pin=U1-15
+Added Pin To Net: NetName=SPI_SDATA Pin=U5-4
+Added Net: Name=SPI_SDATA
+Added Class: Name=power
+Added Room: Name=power

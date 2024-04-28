@@ -1,0 +1,20 @@
+Change Component Footprint: Designator=C5 Old Footprint=CAP_0603_Polarized New Footprint=EEE1AA220WR
+Change Component Footprint: Designator=C6 Old Footprint=CAP_0603_Polarized New Footprint=EEE1AA220WR
+Change component parameters: Designator = "C5" ("C5"); Footprint = "CAP_0603_Polarized"; UniqueID = "\VUAOIYQC" ("\VUAOIYQC")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "EEE-1CA100SR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/eee-1ca100sr/panasonic?region=europe"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1145.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "5.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "EEE-1CA100SR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "667-EEE-1CA100SR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Panasonic/EEE-1CA100SR?qs=ANJC8C65Mw5HUsKv8znGCA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6" ("C6"); Footprint = "CAP_0603_Polarized"; UniqueID = "\ZMEHQGOW" ("\ZMEHQGOW")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "EEE-1CA100SR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/eee-1ca100sr/panasonic?region=europe"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1145.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "5.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "EEE-1CA100SR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "667-EEE-1CA100SR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Panasonic/EEE-1CA100SR?qs=ANJC8C65Mw5HUsKv8znGCA%3D%3D"; VariantName = "[No Variations]"

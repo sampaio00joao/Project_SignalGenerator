@@ -1,0 +1,24 @@
+Oscilador:
+	SSI025000I3CHE-T 	3.6V / 15pf 30pf 50pf máx / 100ns máx.	€ 0.3672
+	OT2EL4C4JI-111OLP-25M 	3.3V / 15pF/ 4nS / 5mA máx. 		€ 0.6435
+	S3D25.000000A20F30T 5V -- usei este
+Buffer 3wire:
+	SN74HCT244PWR € 0.2776
+3.3V Supply Ldo:
+	AMS1117-3.3V
+	https://www.lcsc.com/product-detail/Linear-Voltage-Regulators-LDO_JSMSEMI-AMS1117-3-3V_C5205141.html
+
+Simple inverter
+	ICL7660AIBAZA-T
+
+interface 
+	pot 50k RK09K1130ACL
+	trrimmer 10k 3296W-1-103
+	encoder EC1110120201
+	reset switch PTS636 SK25J SMTR LFS
+debouce encoder
+	U74HC14G-P14-R
+
+crystal 16MHz
+	TAXM16M4RLBCCT2T
+

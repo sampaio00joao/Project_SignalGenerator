@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=OSC2 Pin=Y1-2
+Change Component Footprint: Designator=Y1 Old Footprint=CrystalOscillator New Footprint=4pinOscillator
+Change Component Designator: OldDesignator=t NewDesignator=U4
+Added Pin To Net: NetName=GND Pin=Y1-2
+Added Pin To Net: NetName=OSC2 Pin=Y1-3
+Added Pin To Net: NetName=GND Pin=Y1-4
+Added Member To Class: ClassName=power Member=Component U4 AD9833BRMZ-REEL7

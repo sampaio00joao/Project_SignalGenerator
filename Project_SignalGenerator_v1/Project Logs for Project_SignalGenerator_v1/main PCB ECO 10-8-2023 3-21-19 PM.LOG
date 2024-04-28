@@ -1,0 +1,5 @@
+Added Component: Designator=J1(DCJack_3pins)
+Added Pin To Net: NetName=+12V Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Member To Class: ClassName=power Member=Component J1 PJ_002AH

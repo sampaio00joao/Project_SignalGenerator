@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=ROT_DT Pin=U1-1
+Removed Pin From Net: NetName=ROT_CLK Pin=U1-32
+Added Pin To Net: NetName=ROT_CLK Pin=U1-1
+Added Pin To Net: NetName=ROT_DT Pin=U1-32

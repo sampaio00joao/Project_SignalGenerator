@@ -1,0 +1,7 @@
+Added Component: Designator=J2(SMA_Connector)
+Added Pin To Net: NetName=Signal Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-G1
+Added Pin To Net: NetName=GND Pin=J2-G2
+Added Pin To Net: NetName=GND Pin=J2-G3
+Added Pin To Net: NetName=GND Pin=J2-G4
+Added Member To Class: ClassName=power Member=Component J2 SMA_Connector

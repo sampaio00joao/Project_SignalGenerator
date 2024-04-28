@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=RESET Pin=C4-2
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Pin From Net: NetName=NetC7_2 Pin=U1-7
+Removed Pin From Net: NetName=NetC8_2 Pin=U1-8
+Removed Pin From Net: NetName=NetC7_2 Pin=Y1-1
+Removed Pin From Net: NetName=NetC8_2 Pin=Y1-2
+Removed Member From Class: ClassName=power Member=C9
+Change Component Footprint: Designator=C1 Old Footprint=CAP_0402 New Footprint=CAP_0603
+Change Component Footprint: Designator=C2 Old Footprint=CAP_0402 New Footprint=CAP_0603
+Change Component Footprint: Designator=C4 Old Footprint=CAP_0402 New Footprint=CAP_0603
+Change Component Footprint: Designator=C7 Old Footprint=CAP_0402 New Footprint=CAP_0603
+Change Component Footprint: Designator=C8 Old Footprint=CAP_0402 New Footprint=CAP_0603
+Change Component Comment : Designator=C8 Old Comment=50pF New Comment=100nF
+Change Component Comment : Designator=C4 Old Comment=100nF New Comment=50pF
+Added Pin To Net: NetName=NetC7_2 Pin=U1-8
+Added Pin To Net: NetName=NetC8_2 Pin=U1-20
+Added Pin To Net: NetName=NetC7_2 Pin=Y1-2
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=U1-7
+Added Pin To Net: NetName=NetC4_2 Pin=Y1-1
+Added Net: Name=NetC4_2

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=RESET Pin=P2-1
+Removed Pin From Net: NetName=SPI_SDATA Pin=P2-2
+Removed Pin From Net: NetName=SPI_SCK Pin=P2-6
+Added Pin To Net: NetName=SPI_SDATA Pin=P2-1
+Added Pin To Net: NetName=SPI_SCK Pin=P2-2
+Added Pin To Net: NetName=RESET Pin=P2-6
